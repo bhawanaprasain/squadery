@@ -1,0 +1,283 @@
+{
+  "0x6F6Db6F0391DF2bD84Fcbe2f81f714690d424D1c": [
+    {
+      "debank": {
+        "Alpha Homora V2": {
+          "WAVAX": {
+            "token1": "WAVAX",
+            "token1Amount": "331.29",
+            "usdValue": "$25,801"
+          }
+        },
+        "Beefy": {
+          "UST + USDC": {
+            "token1": "UST",
+            "token1Amount": "3,845.54",
+            "token2": "USDC",
+            "token2Amount": "3,850.68",
+            "usdValue": "$7,725"
+          },
+          "JOE": {
+            "token1": "JOE",
+            "token1Amount": "2,621.12",
+            "usdValue": "$2,903"
+          }
+        },
+        "Trader Joe": {
+          "DCAU + WAVAX": {
+            "token1": "DCAU",
+            "token1Amount": "5.39",
+            "token2": "WAVAX",
+            "token2Amount": "4.82",
+            "reward1": "JOE",
+            "reward1Amount": "6.57",
+            "reward1Value": "$7",
+            "reward2": "DCAU",
+            "reward2Amount": "0.24",
+            "reward2Value": "$17",
+            "usdValue": "$774"
+          }
+        }
+      }
+    },
+    {
+      "apeboard": {
+        "Beefy Vault (AVAX)": {
+          "UST + USDC": {
+            "token1": "UST",
+            "token1Amount": "3,845.544",
+            "token2": "USDC",
+            "token2Amount": "3,850.683",
+            "usdValue": "$7,694.16"
+          },
+          "JOE": {
+            "token1": "JOE",
+            "token1Amount": "2,621.118",
+            "usdValue": "$2,935.65"
+          }
+        },
+        "Trader Joe": {
+          "DCAU + WAVAX": {
+            "token1": "DCAU",
+            "token1Amount": "5.387",
+            "token2": "WAVAX",
+            "token2Amount": "4.818",
+            "reward1": "JOE",
+            "reward1Amount": "6.573",
+            "reward1Value": "$7.36",
+            "reward2": "DCAU",
+            "reward2Amount": "0.242",
+            "reward2Value": "$16.88",
+            "apr": "23.38%",
+            "dailyApr": "0.06%",
+            "usdValue": "$776.29"
+          }
+        }
+      }
+    }
+  ],
+  "0x60374E4b591723eBEb60B7492007b20cD71aDE4A": [
+    {
+      "debank": {}
+    },
+    {
+      "apeboard": {}
+    }
+  ],
+  "0x6a3fb2748a33bb058c18956cbbdbb093f5990600": [
+    {
+      "debank": {
+        "Beefy": {
+          "USDC + MIM": {
+            "token1": "USDC",
+            "token1Amount": "12,627.56",
+            "token2": "MIM",
+            "token2Amount": "12,712.97",
+            "usdValue": "$25,291"
+          },
+          "WFTM + TOMB": {
+            "token1": "WFTM",
+            "token1Amount": "4,448.41",
+            "token2": "TOMB",
+            "token2Amount": "4,433.48",
+            "usdValue": "$15,390"
+          }
+        },
+        "REVENANT": {
+          "cUSD + DAI+USDC": {
+            "token1": "cUSD",
+            "token1Amount": "7,707.26",
+            "token2": "DAI+USDC",
+            "token2Amount": "7,614.80",
+            "reward1": "CREDIT",
+            "reward1Amount": "2.14",
+            "reward1Value": "$4",
+            "usdValue": "$15,417"
+          }
+        },
+        "Yearn V2": {
+          "MIM": {
+            "token1": "MIM",
+            "token1Amount": "8,308.87",
+            "usdValue": "$8,277"
+          }
+        },
+        "YieldWolf": {
+          "WFTM + SCARAB": {
+            "token1": "WFTM",
+            "token1Amount": "1,055.59",
+            "token2": "SCARAB",
+            "token2Amount": "1,046.14",
+            "usdValue": "$3,652"
+          }
+        },
+        "Beethoven x": {
+          "USDC + HND + WFTM": {
+            "token1": "USDC",
+            "token1Amount": "0.97",
+            "token2": "HND",
+            "token2Amount": "2.37",
+            "token3": "WFTM",
+            "token3Amount": "0.56",
+            "reward1": "BEETS",
+            "reward1Amount": "0.50",
+            "reward1Value": "$0",
+            "usdValue": "$5"
+          }
+        },
+        "Spartacus": {
+          "SPA": {
+            "token1": "SPA",
+            "token1Amount": "0.00",
+            "usdValue": "$0"
+          }
+        }
+      }
+    },
+    {
+      "apeboard": {
+        "Beefy Vault (FANTOM)": {
+          "USDC + MIM": {
+            "token1": "USDC",
+            "token1Amount": "12,627.561",
+            "token2": "MIM",
+            "token2Amount": "12,712.966",
+            "usdValue": "$25,309.98"
+          },
+          "WFTM + TOMB": {
+            "token1": "WFTM",
+            "token1Amount": "4,448.415",
+            "token2": "TOMB",
+            "token2Amount": "4,433.479",
+            "usdValue": "$15,498.83"
+          }
+        },
+        "Yearn Finance (FANTOM)": {
+          "YVMIM": {
+            "token1": "YVMIM",
+            "token1Amount": "8,308.869",
+            "usdValue": "$8,264.14"
+          }
+        },
+        "Beethovenx": {
+          "USDC + HND + WFTM": {
+            "token1": "USDC",
+            "token1Amount": "0.966",
+            "token2": "HND",
+            "token2Amount": "2.369",
+            "token3": "WFTM",
+            "token3Amount": "0.555",
+            "reward1": "BEETS",
+            "reward1Amount": "0.496",
+            "reward1Value": "$0.45",
+            "usdValue": "$5.3"
+          }
+        }
+      }
+    }
+  ],
+  "0x6DEEe474D9569011b1dF327F27a8238061F8A79c": [
+    {
+      "debank": {
+        "Beefy": {
+          "WFTM + BTC + ETH": {
+            "token1": "WFTM",
+            "token1Amount": "7,431.08",
+            "token2": "BTC",
+            "token2Amount": "0.33",
+            "token3": "ETH",
+            "token3Amount": "4.74",
+            "usdValue": "$38,582"
+          },
+          "WFTM + gOHM": {
+            "token1": "WFTM",
+            "token1Amount": "472.54",
+            "token2": "gOHM",
+            "token2Amount": "0.66",
+            "usdValue": "$4,059"
+          }
+        }
+      }
+    },
+    {
+      "apeboard": {
+        "Beefy Vault (FANTOM)": {
+          "GRAND-ORCH": {
+            "token1": "GRAND-ORCH",
+            "token1Amount": "65.962",
+            "usdValue": "$38,802.89"
+          },
+          "BPT-GOHMFTM": {
+            "token1": "BPT-GOHMFTM",
+            "token1Amount": "4.875",
+            "usdValue": "$4,107.26"
+          }
+        }
+      }
+    }
+  ],
+  "4k6fPhFDUBJBfESQ6ogzzLszGMabR5q1ctVKQ4hNhzid": [
+    {
+      "sonar": {
+        "LP Tokens": {},
+        "Farms": {
+          "Sunny": {
+            "aaWBTC-srenBTC-9": {
+              "token1": "aaWBTC",
+              "token1Amount": "0.487",
+              "token2": "srenBTC-9",
+              "token2Amount": "0.513",
+              "APR": "0.35%",
+              "Pending": "$11.42",
+              "usdValue": "$38,705.95"
+            }
+          }
+        },
+        "Lending / Borrowing": {},
+        "Leverage positions": {},
+        "Misc": {
+          "Friktion": {
+            "aaWBTC-srenBTC-9": {
+              "usdValue": "$13,647.34"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "terra1s49hv28fqx6adnw8twzcr536ny273mktllg08p": [
+    {
+      "apeboard": {
+        "Wallet": {},
+        "Anchor": {
+          "UST": {
+            "token1Amount": "37,986.025",
+            "token1": "UST",
+            "price": "$1",
+            "usdValue": "$38,137.97"
+          }
+        }
+      }
+    }
+  ]
+}
